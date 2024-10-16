@@ -34,3 +34,6 @@
 
  <p>첫째 줄부터 N번째 줄까지 별을 출력한다.</p>
 
+# 아이디어 노트
+![9F49644D-D97A-4180-9894-CAFEA8E43361](https://github.com/user-attachments/assets/1c42b5bc-6733-460d-8eee-806876d8bdab)
+
