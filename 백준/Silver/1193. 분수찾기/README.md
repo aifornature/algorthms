@@ -83,6 +83,6 @@
 
  <p>첫째 줄에 분수를 출력한다.</p>
 
-### 내 아이디어 노트
+# 내 아이디어 노트
 ![1193_solve](https://github.com/user-attachments/assets/8fed4618-72d6-4ae8-8ad2-679bebc45629)
 
